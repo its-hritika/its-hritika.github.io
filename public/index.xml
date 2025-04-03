@@ -8,12 +8,5 @@
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2025, Hritika Singh</copyright>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>//localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/about/</guid>
-      <description>&lt;p&gt;Hello, I&amp;rsquo;m Hritika Singh from Mumbai, India&lt;/p&gt;&#xA;&lt;p&gt;Passionate about cybersecurity, I am currently pursuing the Certified Ethical Hacker v13 (CEHv13) &amp;amp; eJPTv2 certification&#xA;to strengthen my skills in ethical hacking, network security, and vulnerability assessment. With a background in&#xA;commerce and a degree in Bachelor of Management Studies (BMS), I bring a unique perspective to cybersecurity,&#xA;blending analytical thinking with a business-oriented mindset.&lt;/p&gt;&#xA;&lt;p&gt;Transitioning from a commerce background into the world of cybersecurity has been an exciting challenge, fueling&#xA;my curiosity to understand and mitigate cyber threats. I am eager to connect with professionals in the field,&#xA;learn continuously, and contribute to securing digital assets.&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>

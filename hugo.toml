@@ -26,9 +26,9 @@ copyright = "&copy; Copyright 2025, Hritika Singh"
 [params]
   description = "Hritika's Portfolio"      # Your meta description of the site
   header_title = "Hritika Singh"             # Your header title
-  header_subtitle = "Penetration Tester & Ethical Hacker | Mumbai, India" # Your header subtitle
+  header_subtitle = "Penetration Tester & Ethical Hacker | Mumbai, IN" # Your header subtitle
   home_image = "/images/avatar.png"          # Path to header image starting from the static directory (optional)
-  recent_posts = 5                           # Max amount of recent posts to show
+  recent_posts = 0                           # Max amount of recent posts to show
   mainSections = ["about", "projects"]   # Main sections to include in recent posts
   [params.style]                             # CSS style overrides
     backgroundColor = "#f8f9fa"
